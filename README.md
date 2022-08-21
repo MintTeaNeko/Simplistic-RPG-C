@@ -17,3 +17,27 @@ Put the project file somewhere then open it and inside there's an `.sln` which y
 # Whoa this is the mods ebic game!!
 I know right?! It's made by yours truly Mint! :333
 Such an amazing creation on `C`!
+
+# Some Maps
+
+```
+1, 1, 1, 1, 1, 1, 1, 1,
+1, 0, 0, 6, 1, 0, 0, 1,
+1, 0, 6, 0, 0, 0, 6, 1,
+1, 0, 0, 6, 1, 0, 0, 1,
+1, 1, 0, 1, 1, 1, 0, 1,
+1, 0, 6, 0, 0, 1, 0, 1,
+1, 6, 0, 6, 5, 1, 8, 1,
+1, 1, 1, 1, 1, 1, 1, 1
+```
+
+```
+1, 1, 1, 1, 1, 1, 1, 1,
+1, 8, 0, 0, 1, 1, 5, 1,
+1, 5, 0, 0, 1, 1, 0, 1,
+1, 1, 1, 0, 1, 1, 6, 1,
+1, 6, 0, 0, 0, 1, 6, 1,
+1, 0, 0, 6, 0, 0, 0, 1,
+1, 0, 6, 0, 0, 0, 0, 1,
+1, 1, 1, 1, 1, 1, 1, 1
+```
