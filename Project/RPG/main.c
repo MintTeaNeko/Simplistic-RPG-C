@@ -65,8 +65,7 @@ void MoveDir(char dir)
 	{
 		case 5:
 		{
-			int newValue = enemyDamage / (rand() % 5);
-			enemyDamage = newValue > 5 ? newValue : 5;
+			enemyDamage = enemyDamage < 5 ? enemyDamage / (rand() % 5) : 5;
 			map[newY][newX] = 4;
 			break;
 		}
