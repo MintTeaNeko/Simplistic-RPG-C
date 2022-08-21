@@ -18,7 +18,7 @@ Put the project file somewhere then open it and inside there's an `.sln` which y
 I know right?! It's made by yours truly Mint! :333
 Such an amazing creation on `C`!
 
-# Some Maps
+# Have 2 maps
 
 ```
 1, 1, 1, 1, 1, 1, 1, 1,
